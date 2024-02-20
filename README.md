@@ -2,7 +2,7 @@ Olá, mundo! 👋
 
 Sobre Mim 🚀
 
-Sou um(a) explorador(a) do universo da tecnologia, viajando pela vastidão do código em busca de soluções inovadoras e experiências digitais emocionantes. Com um coração cheio de entusiasmo e uma mente cheia de criatividade, estou sempre pronto(a) para decolar em novas aventuras de programação!
+Sou uma exploradora do universo da tecnologia, viajando pela vastidão do código em busca de soluções inovadoras e experiências digitais emocionantes. Com um coração cheio de entusiasmo e uma mente cheia de criatividade, estou sempre pronto(a) para decolar em novas aventuras de programação!
 
 O Que Faço 💻
 
